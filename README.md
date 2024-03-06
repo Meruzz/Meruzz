@@ -1,5 +1,5 @@
 ### Hi there 👋
-<--
+<!--
 # ![TuMarcaPersonal](URL_DE_TU_IMAGEN) Hola, mi nombre es [TuNombre] 👋
 ### [Tu título profesional o especialidad]
 
