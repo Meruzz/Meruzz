@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Brandon Almachi 👋
 
 ### Aspirante a Desarrollador de Software
 
@@ -21,8 +21,8 @@ Estoy comenzando mi camino en el desarrollo de software y estoy interesado en ap
 
 ## Conectemos 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu_Nombre-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-perfil)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tu_usuario?style=social)](https://twitter.com/tu_usuario)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu_Nombre-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-perfil)-->
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/tu_usuario?style=social)](https://twitter.com/tu_usuario)-->
 
 ## Apoya mi aprendizaje 🙌
 
@@ -31,5 +31,5 @@ Si te gusta lo que estoy haciendo, considera apoyarme. ¡Cualquier estrella o co
 ## 📫 Cómo contactarme:
 - Si tienes algún consejo o recurso que crees que pueda ayudarme, ¡no dudes en hacérmelo saber!
 
-[![Email](https://img.shields.io/badge/Email-tu_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:tu_correo)
+[![Email](https://img.shields.io/badge/brandonalmachi123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:tu_correo)
 
