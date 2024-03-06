@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<--
 # ![TuMarcaPersonal](URL_DE_TU_IMAGEN) Hola, mi nombre es [TuNombre] 👋
 ### [Tu título profesional o especialidad]
 
@@ -58,7 +58,7 @@ Descripción de los proyectos que lideras o en los que colaboras.
 Información sobre cómo pueden apoyarte, ya sea siguiéndote en redes, haciendo "star" en tus repositorios, o donaciones.
 
 ## Contacto y más información:
-Información sobre cómo contactarte y encontrar más sobre tu trabajo.
+Información sobre cómo contactarte y encontrar más sobre tu trabajo.-->
 
 
 <!--
