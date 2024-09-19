@@ -1,4 +1,4 @@
-# Hola, soy Brandon Almachi 👋
+# Hola, soy Meruzz 👋
 
 ### Aspirante a Desarrollador de Software
 
